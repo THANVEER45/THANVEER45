@@ -32,7 +32,7 @@ public class add {
                 // x gives the required sum
                 s.b = c << 1;
             }
-            System.out.println("Hi everyone");
+            System.out.println(a);
             
         }
         }
